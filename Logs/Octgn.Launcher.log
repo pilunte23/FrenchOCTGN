@@ -1,0 +1,9 @@
+2020-11-25 19:10:20,743 [1] INFO  Octgn.Launcher.App - Startup
+2020-11-25 19:10:20,771 [1] INFO  Octgn.Launcher.App - IsDebugMode=False
+2020-11-25 19:10:20,937 [1] INFO  Octgn.Launcher.App - OS:Microsoft Windows 10 Professionnel:6.2.9200.0
+2020-11-25 19:10:20,938 [1] INFO  Octgn.Launcher.App - Working Dir=C:\Jeux\OCTGN
+2020-11-25 19:10:20,938 [1] INFO  Octgn.Launcher.App - Args=
+2020-11-25 19:10:20,938 [1] INFO  Octgn.Launcher.App - Octgn Path=C:\Jeux\OCTGN\Octgn.exe
+2020-11-25 19:10:20,939 [1] INFO  Octgn.Launcher.App - Getting .net from registry
+2020-11-25 19:10:20,939 [1] INFO  Octgn.Launcher.App - .Net Release: 528040
+2020-11-25 19:10:21,086 [1] INFO  Octgn.Launcher.App - Launcher ran successfully

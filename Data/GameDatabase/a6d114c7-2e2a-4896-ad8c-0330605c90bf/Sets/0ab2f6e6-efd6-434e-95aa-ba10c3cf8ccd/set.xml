@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Tokens" id="0ab2f6e6-efd6-434e-95aa-ba10c3cf8ccd" gameId="a6d114c7-2e2a-4896-ad8c-0330605c90bf" gameVersion="1.0.0.0" version="1.0.0.0">
+
+  <cards>
+    <card id="d8669f4c-aa2c-4ef1-ab0c-9202b08cf563" name="+1" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="35137ccc-db2b-4fdd-b0a8-a5d91f453a43" name="0" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="c74d422c-d209-48c9-bc5a-caacb8c8b402" name="-1" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="92df60c3-7d56-4e2d-99e2-c0e7e0d9994a" name="-2" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="eac1c4b1-43ac-49d9-b2ac-55c3b1340bd8" name="-3" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="6d3049df-5584-42a8-9c5b-b64e48f16a4a" name="-4" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="02c506c6-c012-4072-bc62-3074847bbcdb" name="-5" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="0467c5e1-ad56-4c87-8460-66b89d5f0816" name="-6" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="670ddd79-feee-404f-abd1-e2b4ce23e425" name="-7" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="a08d6f70-d07c-4d99-9eb3-3d5f2be0968c" name="-8" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="ca0b7b2a-8992-483b-8094-b3c515af8967" name="Elder Sign" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="9bdf31e9-51c4-4080-9e8d-53c9965ba214" name="Auto Fail" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="49d18b2f-a191-4569-9ce4-06a5bdd33bf6" name="Skull" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="f1f63047-e572-4f15-aee7-1aaca33a63ed" name="Cultist" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="eb0dc92b-654a-41a3-8e06-7053d8c94f22" name="Tablet" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="ae10abfc-abb1-41c7-9490-b3f91d8574b2" name="Elder One" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="360db0ee-c362-4bbe-9554-b1fbf101d9ab" name="Bless" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="81df3f18-e341-401d-a6bb-528940a9c39e" name="Curse" size="ChaosToken">
+      <property name="Type" value="Chaos Token" />
+    </card>
+    <card id="faa82643-1dda-4af7-96ad-298bc2d5b2dd" name="ChaosBag">
+      <property name="Type" value="Chaos Bag" />
+    </card>
+    <card id="f4633a2e-0102-452d-8387-678b5aa17878" name="Encounter Draw">
+      <property name="Type" value="Encounter Draw" />
+	</card>
+   <card id="7f4029c8-1cee-406a-9913-9fbc6e341bed" name="Long Path" size="LongPath">
+      <property name="Type" value="Path" />
+      <alternate name="Long Path" type="B" size="DiagLongPath">
+        <property name="Type" value="Path"/>
+      </alternate>
+    </card>
+    <card id="cf3d8bd6-354a-4284-b716-109e7040c3e9" name="Medium Path" size="MediumPath">
+      <property name="Type" value="Path" />
+      <alternate name="Medium Path" type="B" size="DiagMediumPath">
+        <property name="Type" value="Path"/>
+      </alternate>
+    </card>
+    <card id="2e964666-fa5a-40e4-a7f5-bf66c625d783" name="Short Path" size="ShortPath">
+      <property name="Type" value="Path" />
+      <alternate name="Short Path" type="B" size="DiagShortPath">
+        <property name="Type" value="Path"/>
+      </alternate>
+    </card>
+    <card id="3d9c7266-d4d0-46e0-b8b3-560fbcf1b294" name="Elbow Path" size="ElbowPath">
+      <property name="Type" value="Path" />
+      <alternate name="Elbow Path" type="B" size="DiagElbowPath">
+        <property name="Type" value="Path"/>
+      </alternate>
+    </card>
+    <card id="8ea6845b-b9bb-4f11-a814-e94b16e50629" name="Cross Path" size="CrossPath">
+      <property name="Type" value="Path" />
+      <alternate name="Cross Path" type="B" size="DiagCrossPath">
+        <property name="Type" value="Path"/>
+      </alternate>
+    </card>
+    <card id="1b1493eb-cf9f-4709-9b50-f8f343f7a607" name="3-Way Path" size="ThreeWayPath">
+      <property name="Type" value="Path" />
+      <alternate name="3-Way Path" type="B" size="DiagThreeWayPath">
+        <property name="Type" value="Path"/>
+      </alternate>
+    </card>
+    <card id="d2ddabd3-b7b1-427e-8ca2-b7dbe272fce5" name="Orthagonal to Diagonal Connection Path" size="DiagConnectPath">
+      <property name="Type" value="Path" />
+      <alternate name="Orthagonal to Diagonal Connection Path" type="B" size="DiagConnectPath">
+        <property name="Type" value="Path"/>
+      </alternate>
+    </card>
+    <card id="10bd7039-10f4-44c9-8be4-61bf182e1d9d" name="Directional Marker" size="DirectionalMarker">
+      <property name="Type" value="Path" />
+      <property name="Subtype" value="DirectionalMarker"/>
+      <alternate name="Directional Marker" type="B" size="DiagDirectionalMarker">
+        <property name="Type" value="Path"/>
+        <property name="Subtype" value="DirectionalMarker"/>
+      </alternate>
+    </card>
+	<card id="62f3d5d3-c545-4d35-803e-ac8a4d440c80" name="Guardian" size="MiniCard">
+    <property name="Type" value="Mini"/>
+    <property name="Class" value="Guardian"/>
+	</card>
+	<card id="c4e73f34-01ad-472b-ba46-042a5f60cd4a" name="Seeker" size="MiniCard">
+    <property name="Type" value="Mini"/>
+    <property name="Class" value="Seeker"/>
+	</card>
+	<card id="e27cff7a-fbfa-4f74-8d2f-4a0528684c34" name="Rogue" size="MiniCard">
+    <property name="Type" value="Mini"/>
+    <property name="Class" value="Rogue"/>
+	</card>
+	<card id="04c3908d-2d54-4d46-8606-c3122e4806ed" name="Mystic" size="MiniCard">
+    <property name="Type" value="Mini"/>
+    <property name="Class" value="Mystic"/>
+	</card>
+	<card id="b6f04e62-a314-4347-9bc6-514bf1e34795" name="Survivor" size="MiniCard">
+    <property name="Type" value="Mini"/>
+    <property name="Class" value="Survivor"/>
+	</card>
+	<card id="f8aed1c0-a2bc-4926-99e4-d462a763d804" name="Neutral" size="MiniCard">
+    <property name="Type" value="Mini"/>
+    <property name="Class" value="Neutral"/>
+	</card>
+  </cards>
+	
+</set>

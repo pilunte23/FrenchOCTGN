@@ -1,0 +1,18 @@
+{
+  "AcceptedCustomDataAgreement": true,
+  "ImageDirectory": "%OCTGN_DATA%\\ImageDatabase",
+  "HideUninstalledGamesInList": false,
+  "AskedIfUsingWine": true,
+  "HistoryPageSize": "16",
+  "SpectateGames": false,
+  "WindowBorderDecorator": "Octgn",
+  "IgnoreSSLCertificates": false,
+  "UsingWine": false,
+  "UseHardwareRendering": true,
+  "CustomDataAgreementHash": "578e1037d66718aa16d988c62b86c2cdb85fd483",
+  "Password": "",
+  "IsAdmin": false,
+  "UseGameFonts": true,
+  "Username": "",
+  "UseWindowTransparency": true
+}
